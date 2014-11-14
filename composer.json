@@ -1,0 +1,9 @@
+{
+    "name": "rendragnet/OnApp-PHP-Wrapper-External",
+    "description": "PHP Wrapper for OnApp",
+    "license": "Unknown",
+    "homepage": "https://github.com/rendragnet/OnApp-PHP-Wrapper-External",
+    "require": {
+      "php": ">=5.3.1"
+    },
+}
