@@ -1,8 +1,8 @@
 {
-    "name": "rendragnet/OnApp-PHP-Wrapper-External",
+    "name": "rendragnet/OnAppPHPWrapperExternal",
     "description": "PHP Wrapper for OnApp",
     "license": "Unknown",
-    "homepage": "https://github.com/rendragnet/OnApp-PHP-Wrapper-External",
+    "homepage": "https://github.com/rendragnet/OnAppPHPWrapperExternal",
     "require": {
       "php": ">=5.3.1"
     }
