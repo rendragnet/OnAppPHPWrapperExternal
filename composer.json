@@ -5,5 +5,5 @@
     "homepage": "https://github.com/rendragnet/OnApp-PHP-Wrapper-External",
     "require": {
       "php": ">=5.3.1"
-    },
+    }
 }
